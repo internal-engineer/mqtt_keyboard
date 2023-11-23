@@ -2,3 +2,7 @@
 Управление функциями умного дома при помощи горячих клавиш на клавиатуре.
 
 Подробнее в видео:
+
+Используемые библиотеки:
+https://pynput.readthedocs.io/en/latest/keyboard.html
+https://pypi.org/project/paho-mqtt/
