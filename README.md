@@ -4,5 +4,5 @@
 Подробнее в видео:
 
 Используемые библиотеки:
-https://pynput.readthedocs.io/en/latest/keyboard.html
+https://pynput.readthedocs.io/en/latest/keyboard.html <br>
 https://pypi.org/project/paho-mqtt/
